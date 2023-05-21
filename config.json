@@ -1,0 +1,4 @@
+{
+    "name": "Top Incorrect Submissions",
+    "route": "/admin/top_incorrect_submissions"
+}
